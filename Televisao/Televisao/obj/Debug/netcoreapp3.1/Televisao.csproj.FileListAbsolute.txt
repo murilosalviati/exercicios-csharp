@@ -1,0 +1,13 @@
+C:\Users\Murilo\source\repos\Televisao\Televisao\obj\Debug\netcoreapp3.1\Televisao.csprojAssemblyReference.cache
+C:\Users\Murilo\source\repos\Televisao\Televisao\obj\Debug\netcoreapp3.1\Televisao.AssemblyInfoInputs.cache
+C:\Users\Murilo\source\repos\Televisao\Televisao\obj\Debug\netcoreapp3.1\Televisao.AssemblyInfo.cs
+C:\Users\Murilo\source\repos\Televisao\Televisao\obj\Debug\netcoreapp3.1\Televisao.csproj.CoreCompileInputs.cache
+C:\Users\Murilo\source\repos\Televisao\Televisao\bin\Debug\netcoreapp3.1\Televisao.exe
+C:\Users\Murilo\source\repos\Televisao\Televisao\bin\Debug\netcoreapp3.1\Televisao.deps.json
+C:\Users\Murilo\source\repos\Televisao\Televisao\bin\Debug\netcoreapp3.1\Televisao.runtimeconfig.json
+C:\Users\Murilo\source\repos\Televisao\Televisao\bin\Debug\netcoreapp3.1\Televisao.runtimeconfig.dev.json
+C:\Users\Murilo\source\repos\Televisao\Televisao\bin\Debug\netcoreapp3.1\Televisao.dll
+C:\Users\Murilo\source\repos\Televisao\Televisao\bin\Debug\netcoreapp3.1\Televisao.pdb
+C:\Users\Murilo\source\repos\Televisao\Televisao\obj\Debug\netcoreapp3.1\Televisao.dll
+C:\Users\Murilo\source\repos\Televisao\Televisao\obj\Debug\netcoreapp3.1\Televisao.pdb
+C:\Users\Murilo\source\repos\Televisao\Televisao\obj\Debug\netcoreapp3.1\Televisao.genruntimeconfig.cache
